@@ -1,3 +1,4 @@
 ## 
 # Olá bem vindo ao meu perfil! 
-## Sou estudante de sistemas de Informação,  estou me desenvolvendo a cada dia  na faculdade  e com o apoio da Digital Innovation One .
+## Sou estudante de sistemas de Informação.
+## Estou me qualificando com a  Digital Innovation One.
