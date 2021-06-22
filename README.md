@@ -1,2 +1,3 @@
 ## 
-# Olá bem vindo ao meu perfil! Sou o Maicon da silva Batista, sou Brasileiro natural do Rio Grande do sul. Estudante de Sistemas de Informação, estou me qualificando e gostando da linguagem Kotlin !! futuro desenvolvedor Android !!
+# Olá bem vindo ao meu perfil! 
+## Sou estudante de sistemas de Informação,  estou me desenvolvendo a cada dia  na faculdade  e com o apoio da Digital Innovation One .
